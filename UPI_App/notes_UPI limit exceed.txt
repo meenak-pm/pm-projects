@@ -1,0 +1,20 @@
+Refer here the overview of UPI in terms of the problem space it addresses, customer segments it serves, use cases, workflows, modules & features 	
+	https://chatgpt.com/c/691c1bc2-02ec-8320-b8d4-02fd7cfec6fc
+
+
+Read here about customer pain points when UPI transactions fail for exceeding limits set by issuing banks:	
+	https://www.perplexity.ai/search/for-upi-qr-used-for-merchant-a-MoHOSSx6TlK34aflFa7MRg
+
+
+problem statement		
+	user is unable to see the UPI transaction limit set by the bank	
+	she needs to check it through another app (bank's app) or use net banking (defies UNIFIED notion of UPI)	
+	if the transaction fails for exceeding the limit, there is no option to modify the limit from the UPI app itself or transact through other methods like NEFT/IMPS	
+		
+solution		
+	just like 'check balance', there should be link for 'check limits' against each bank ac linked to the UPI id	
+	when transaction fails due to exceeding limit, 	
+		the message should be clear if daily or per transaction limit is exceeded
+		there should be a link to modify limits, which takes user to the bank's site (bank site/app opens up separately)
+		the 'try again in x hrs' message should calculate the exact time & date after which the limit will be reset & user will be able to transact successfully
+	once the limit is successfully modified, user can come back to the UPI app and attempt the transaction again	
