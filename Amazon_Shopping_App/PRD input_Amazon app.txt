@@ -1,0 +1,23 @@
+Use cases-
+- User wants to quickly find the product matching the requirements with simpler & distraction free UI
+- needs to search on multiple criteria such as for certain age, products with specific dimensions/colour/material, delivery timelines etc.
+- wants to know the review comments/ratings are genuine, search/filter them and use them for making informed decisions
+- wants to see the products catered to her personal choices and preferences so that the filtered list is short, yet has higher conversion rate
+- does not want to see the recommendations or favourite list all the time
+- needs to have simple and fast checkout process
+- wants the platform to ensure only genuine products are listed and there are no counterfeit brands, companies selling used products as new
+
+Problems-
+- UI is cluttered, it is difficult to find the required product quickly
+- the current search is keyword based with key product category & features
+- there is no way to know if comments/ratings are from verified customers, all reviews are not visible, they are not searchable or filterable (e.g. recent, negative)
+- the product list is generically filtered based on keywords only, it should be personalised to include user's taste & preferences
+- there is no way to turn off recommendation feature, favourite list also pops up randomly
+- checkout is a multi-step process which adds to the overall slow buying journey
+- strict quality measures are missing to ensure only best quality products are sold, return & refund process needs to be simplified & made trustworthy
+
+Solution-
+The search needs to be drastically improved so that user can find the right product quickly, by providing all the requirements in natural language (including product features, specifics, reviews/ratings, delivery timelines, seller ratings, brand preference) and getting a finite list of highly personalised list of products (based on user's purchase history of similar products or general preferences such as price range, design, style etc.)
+
+With LLM based search (GenAI-powered discovery), the product criteria can be described in natural language such as expected material, colour, dimensions, delivery timelines, preferred no of choices (top 5, 10) etc. This combined with personalised product filtering for user (based on price range, brand & other preferences) will result in most relevant search results that will have high conversion rate. This will drastically reduce the shopping time, overall building trust & reliance on the platform.
+ 
